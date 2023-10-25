@@ -34,5 +34,5 @@
 <h2>구현 내용</h2>
 <div>
   <h4>1. 메인 페이지</h4>
-  <img src=""/>
+  <img src="7HTHETOWN Git Img/Untitled.png" width="600"/>
 </div>
